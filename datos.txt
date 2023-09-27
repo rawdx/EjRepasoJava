@@ -1,0 +1,5 @@
+Empleado [numEmpleado=1, nombre=sada, apellidos=sadsa, dni=das, fechaNac=dsa, titulacion=d]
+Empleado [numEmpleado=2, nombre=asdsa, apellidos=dsad, dni=sad, fechaNac=asd, titulacion=as]
+Empleado [numEmpleado=1, nombre=asdsadfa, apellidos=sdasd, dni=asd, fechaNac=as, titulacion=dsa]
+Empleado [numEmpleado=1, nombre=asdasd, apellidos=adasd, dni=adsa, fechaNac=dad, titulacion=asd]
+Empleado [numEmpleado=1, nombre=asdsad, apellidos=asdsad, dni=asdsadas, fechaNac=adsa, titulacion=asdad]
